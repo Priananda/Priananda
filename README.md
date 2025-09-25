@@ -2,7 +2,7 @@
 
 <p align="center">
 Saya adalah seorang pengembang web yang membangun aplikasi berbasis situs web.<br/>
-Saya telah mengerjakan berbagai proyek seperti sistem pemesanan menu online, sistem dashbaord admin,<br/>
+Saya telah mengerjakan berbagai proyek seperti sistem pemesanan menu online, sistem dashboard admin,<br/>
 sistem jinom reseller, sistem chatting, dan sistem lainnya.<br/>
 Saya terbiasa bekerja dalam tim maupun mandiri, dan tetap berkomitmen untuk belajar serta mengimplementasikan ke dalam sistem.
 </p>
