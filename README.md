@@ -8,7 +8,7 @@ Saya terbiasa bekerja dalam tim maupun mandiri, dan tetap berkomitmen untuk bela
 </p>
 
 
-## 🚀 Skill dan Teknologi
+## Skills & TechStack
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,11 +41,11 @@ Saya terbiasa bekerja dalam tim maupun mandiri, dan tetap berkomitmen untuk bela
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Kontak Saya
+## Contact
 - Email: [kadekpriananda12@gmail.com](mailto:kadekpriananda12@gmail.com)
 - LinkedIn: [linkedin.com/in/i-kadek-priananda-37573934b](https://www.linkedin.com/in/i-kadek-priananda-37573934b)
 
-## GitHub
+## GitHub State
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priananda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
