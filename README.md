@@ -38,7 +38,7 @@ Saya terbiasa bekerja dalam tim maupun mandiri, dan tetap berkomitmen untuk bela
 ### Interface
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Consume API](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Slicing UI](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![UI Implementation](https://img.shields.io/badge/Figma_to_Code-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ### Tools & Workflow
