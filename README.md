@@ -1,10 +1,10 @@
 <h1 align="center">Hallo 👋, Saya Priananda!</h1>
 
 <p align="center">
-Saya adalah seorang pengembang web yang membangun aplikasi berbasis situs web.<br/>
-Saya telah mengerjakan berbagai proyek seperti sistem pemesanan menu online, sistem dashboard admin,<br/>
-sistem jinom reseller, sistem chatting, dan sistem lainnya.<br/>
-Saya terbiasa bekerja dalam tim maupun mandiri, dan tetap berkomitmen untuk belajar serta mengimplementasikan ke dalam sistem.
+Saya adalah seorang pengembang web yang berfokus pada pembangunan aplikasi berbasis situs web.<br/>
+Berpengalaman mengembangkan berbagai proyek seperti aplikasi pemesanan, dashboard admin,<br/>
+sistem manajemen, serta platform interaktif lainnya.<br/>
+Terbiasa bekerja dalam tim maupun mandiri, dengan komitmen untuk terus belajar dan mengimplementasikan teknologi terbaru.
 </p>
 
 
