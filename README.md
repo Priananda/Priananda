@@ -4,7 +4,7 @@
 Saya adalah seorang pengembang web yang berfokus pada pembangunan aplikasi berbasis situs web.<br/>
 Berpengalaman mengembangkan berbagai proyek seperti aplikasi pemesanan, dashboard admin,<br/>
 sistem manajemen, serta platform interaktif lainnya.<br/>
-Terbiasa bekerja dalam tim maupun mandiri, dengan komitmen untuk terus belajar dan mengimplementasikan teknologi terbaru.
+Terbiasa bekerja dalam tim maupun mandiri, dengan komitmen untuk terus belajar dan mengimplementasikan.
 </p>
 
 
