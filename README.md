@@ -53,9 +53,9 @@ Terbiasa bekerja dalam tim maupun mandiri, dengan komitmen untuk terus belajar d
 - LinkedIn: [linkedin.com/in/i-kadek-priananda-37573934b](https://www.linkedin.com/in/i-kadek-priananda-37573934b)
 
 ## GitHub State
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priananda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priananda&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
