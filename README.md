@@ -52,7 +52,6 @@ Terbiasa bekerja dalam tim maupun mandiri, dengan komitmen untuk terus belajar d
 - Email: [kadekpriananda12@gmail.com](mailto:kadekpriananda12@gmail.com)
 - LinkedIn: [linkedin.com/in/i-kadek-priananda-37573934b](https://www.linkedin.com/in/i-kadek-priananda-37573934b)
 
-## GitHub State
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priananda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
