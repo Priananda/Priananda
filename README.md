@@ -50,7 +50,7 @@ I am accustomed to working both in teams and independently, with a commitment to
 
 ## Contact
 - Email: [kadekpriananda12@gmail.com](mailto:kadekpriananda12@gmail.com)
-- LinkedIn: [linkedin.com/in/i-kadek-priananda-37573934b](https://www.linkedin.com/in/i-kadek-priananda-37573934b)
+- LinkedIn: [linkedin.com/in/i-kadek-priananda-37573934b](www.linkedin.com/in/i-kadek-priananda-s-kom-fcns-37573934b)
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priananda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
