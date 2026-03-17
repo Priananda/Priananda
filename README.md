@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Priananda</h1>
 
 <p align="center">
-I am a web developer focusing on building website-based applications.<br/>
+I am a Full Stack Developer focusing on building website-based applications.<br/>
 I have experience developing various projects such as booking applications, admin dashboards,<br/>
 management systems, and other interactive platforms.<br/>
 I am accustomed to working both in teams and independently, with a commitment to continuous learning and implementation.
