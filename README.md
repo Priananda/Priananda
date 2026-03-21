@@ -23,11 +23,11 @@ I am accustomed to working both in teams and independently, with a commitment to
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Go (Gin)](https://img.shields.io/badge/Go%20(Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Styling Web
+### Styling 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ### State Management
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
