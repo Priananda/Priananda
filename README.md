@@ -13,18 +13,21 @@ I am accustomed to working both in teams and independently, with a commitment to
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 ### Back-end
 ![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Go (Gin)](https://img.shields.io/badge/Go%20(Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Styling Web
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### State Management
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -50,11 +53,6 @@ I am accustomed to working both in teams and independently, with a commitment to
 
 ## Contact
 - Email: [kadekpriananda12@gmail.com](mailto:kadekpriananda12@gmail.com)
-- LinkedIn: [linkedin.com/in/i-kadek-priananda-37573934b](https://www.linkedin.com/in/i-kadek-priananda-s-kom-fcns-37573934b)
+- LinkedIn: [linkedin.com/in/i-kadek-priananda-37573934b](www.linkedin.com/in/i-kadek-priananda-s-kom-fcns-37573934b)
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priananda&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priananda&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p> -->
 
